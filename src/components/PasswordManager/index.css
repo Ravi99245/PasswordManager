@@ -1,0 +1,250 @@
+.bg-container {
+  background-color: #9ba9eb;
+  min-width: 100vh;
+  padding: 25px;
+  padding-left: 50px;
+  padding-right: 50px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+
+.password-logo {
+  margin-left: 25px;
+  width: 200px;
+  align-self: flex-start;
+}
+
+.input-container {
+  background-color: #5763a5;
+  padding: 40px;
+  border-radius: 10px;
+  margin-top: 25px;
+  width: 85%;
+  margin-left: 25px;
+  font-family: 'Roboto';
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.input-password {
+  background-color: #454f84;
+  width: 50%;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: space-between;
+  border-radius: 10px;
+  height: 350px;
+}
+
+.heading {
+  font-size: 20px;
+  color: #ffffff;
+  font-weight: 500;
+  margin-bottom: 15px;
+}
+.website-logo {
+  width: 25px;
+}
+
+.website {
+  background-color: #f8fafc;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+  width: 45px;
+  height: 45px;
+  border-top-left-radius: 5px;
+  border-bottom-left-radius: 5px;
+  border-right: 1px solid #000000;
+}
+
+.email {
+  height: 45px;
+  border: none;
+  padding-left: 10px;
+  width: 350px;
+  border-top-left-radius: 0px;
+  border-bottom-left-radius: 0px;
+  border-top-right-radius: 3px;
+  border-bottom-right-radius: 3px;
+}
+
+.website-container {
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.manager {
+  width: 350px;
+  height: 350px;
+}
+
+.password-container {
+  background-color: #454f84;
+  padding: 30px;
+  border-radius: 10px;
+  margin-top: 25px;
+  width: 85%;
+  margin-left: 25px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-family: 'Roboto';
+}
+
+.password-number {
+  margin-left: 5px;
+  border: 1px solid #ffffff;
+  border-radius: 15px;
+  padding-left: 10px;
+  padding-right: 10px;
+  font-size: 13px;
+  color: #ffffff;
+}
+
+.search {
+  background-color: #f8fafc;
+  display: flex;
+  padding: 10px;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  height: 25px;
+  border-right: 1px solid #000000;
+}
+
+.searchInput {
+  height: 25px;
+  border: none;
+  padding-left: 10px;
+  width: 150px;
+}
+
+.search-section {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  margin-top: 5px;
+}
+
+.heading1 {
+  font-size: 20px;
+  color: #ffffff;
+  font-weight: 500;
+  margin-top: 15px;
+}
+
+.line {
+  background-color: #9ba9eb;
+  height: 1px;
+  width: 100%;
+}
+
+.checkBox-container {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  width: 100%;
+}
+
+.checkBox-element {
+  width: 20px;
+  height: 20px;
+  margin-right: 10px;
+  cursor: pointer;
+  outline: none;
+}
+
+.checkBox-label {
+  color: #ffffff;
+  cursor: pointer;
+  outline: none;
+}
+
+.button {
+  align-self: flex-end;
+  margin-right: 17px;
+  border: none;
+  background-color: #0b69ff;
+  padding: 6px;
+  padding-left: 10px;
+  padding-right: 10px;
+  color: #ffffff;
+  font-size: 16px;
+  border-radius: 3px;
+  cursor: pointer;
+  outline: none;
+}
+
+.passwords {
+  list-style-type: none;
+  padding-left: 0px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+  width: 100%;
+}
+
+.color1 {
+  background-color: #94a3b8;
+}
+
+.color2 {
+  background-color: #b6c3ca;
+}
+
+.color3 {
+  background-color: #7683cb;
+}
+
+.color4 {
+  background-color: #f59e0b;
+}
+
+.color5 {
+  background-color: #10b981;
+}
+
+.color6 {
+  background-color: #f97316;
+}
+
+.color7 {
+  background-color: #14b8a6;
+}
+
+.color8 {
+  background-color: #b91c1c;
+}
+
+.color9 {
+  background-color: #0ea5e9;
+}
+
+.color10 {
+  background-color: #64748b;
+}
+
+.noPassword {
+  width: 200px;
+  color: #ffffff;
+  font-size: 20px;
+  font-weight: 500;
+  text-align: center;
+}
+
+.heading-element {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
